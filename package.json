@@ -1,0 +1,26 @@
+{
+  "name": "webscrappingdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxnoob/webscrapingdemo1.git"
+  },
+  "keywords": [
+    "demoToped"
+  ],
+  "author": "gburnama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linuxnoob/webscrapingdemo1/issues"
+  },
+  "homepage": "https://github.com/linuxnoob/webscrapingdemo1#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "express": "^4.17.1"
+  }
+}
